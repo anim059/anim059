@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Istiaque Hashem</h1>
 <div align="center">
-  <h4>A passionate software engineer from Bangladesh. I'm constantly seeking to broaden my horizons by delving into new and exciting tech stacks.  I'm on a relentless journey to craft solutions that not only meet the present but also shape the future</h4>
+  <h4>A passionate software developer from Bangladesh, driven by curiosity and innovation. I thrive on pushing boundaries, diving into cutting-edge tech stacks, and mastering the tools that define tomorrow’s digital landscape. My mission? To build transformative solutions—not just for today’s challenges, but for the future’s possibilities. Every line of code I write is a step toward shaping a smarter, more connected world</h4>
           📫 How to reach me <strong> **istiaqeanim@gmail.com** </strong>
 </div>
 <p align="center">
